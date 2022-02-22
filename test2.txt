@@ -1,0 +1,1 @@
+test2 dosyamızı oluşturur ve ilk defa bir şeyler yazıyoruz.
